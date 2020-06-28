@@ -3,10 +3,16 @@ body {
     padding: 0;
     margin: 0;
     position: relative;
+    /*GitHub Assignment 2*/
+    background-color: #e7fbfb;
 }
 
 h1 {
     margin: 0;
+    /*GitHub Assignment 2*/
+    font-size: 4em;
+    text-align: center;
+    color: #010b5b;
 }
 
 header, footer {
